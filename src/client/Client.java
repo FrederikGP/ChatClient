@@ -29,6 +29,7 @@ public class Client {
         this.isAlive = 0;
         this.portNumber = 8189;
         
+        //jeg giver kage.
         
     }
     
